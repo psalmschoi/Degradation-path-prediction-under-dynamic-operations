@@ -1,0 +1,1 @@
+# Degradation-path-prediction-of-lithium-ion-batteries-under-dynamic-operating-sequences
