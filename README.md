@@ -3,7 +3,7 @@
 These are the codes for the paper: Degradation path prediction of lithium-ion batteries under dynamic operating sequences. Inwoo Kim, Jang Wook Choi
 
 ### Data preparation
-Kim, Inwoo; Choi, Jang Wook (2024), “Degradation path prediction of lithium-ion batteries under dynamic operating sequences”, Mendeley Data, V1, doi: 10.17632/h2y7mj4kt7.1
+Kim, Inwoo; Choi, Jang Wook (2024), “Degradation path prediction of lithium-ion batteries under dynamic operating sequences”, Mendeley Data, V2, doi: 10.17632/h2y7mj4kt7.2
 
 ### Code overview
 The code is organized into two sections. 
